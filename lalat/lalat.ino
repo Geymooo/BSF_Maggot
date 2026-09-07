@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6GrhgesU7"
+#define BLYNK_TEMPLATE_ID "type here"
 #define BLYNK_TEMPLATE_NAME "Lalat"
-#define BLYNK_AUTH_TOKEN "p6IEVg-3SYz75ScgA2GyHFPobIk4AS-H"
+#define BLYNK_AUTH_TOKEN "type here"
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
@@ -15,7 +15,7 @@ const char* pass = "03081987";
 const char* host = "script.google.com";
 const int httpsPort = 443;
 WiFiClientSecure client;
-String GAS_ID = "AKfycbx8YAoG89nIIokmhcA6kr8NxCxkZLtaqbbZMI_PanU1LQyVZr-Xz_VnbqjkYGsaNDrY";
+String GAS_ID = "type here";
 
 // Konfigurasi pin dan perangkat
 #define DHTPIN 5 // D1
