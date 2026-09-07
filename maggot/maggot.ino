@@ -1,5 +1,5 @@
-#define BLYNK_AUTH_TOKEN "mt4A-3gL6Opdqo6Il_TmUpZRFHNWjD1n"
-#define BLYNK_TEMPLATE_ID "TMPL6ZX8iR_9p"
+#define BLYNK_AUTH_TOKEN "type here"
+#define BLYNK_TEMPLATE_ID "type here"
 #define BLYNK_TEMPLATE_NAME "Maggot"
 
 #include <ESP8266WiFi.h>
@@ -18,7 +18,7 @@ char pass[] = "03081987";
 const char* googleHost = "script.google.com";
 const int httpsPort = 443;
 WiFiClientSecure client;
-String GAS_ID = "AKfycbx0Cjpd7lFxy2cAkxAqkKWmciCF8a6ayMoukgI-cGyTfL2_7xvQi0JHRSNpO_ImKX4"; // Spreadsheet Script ID
+String GAS_ID = "type here"; // Spreadsheet Script ID
 
 // Pin Konfigurasi
 #define LED_PIN D2
